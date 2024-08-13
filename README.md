@@ -18,5 +18,5 @@ I'm a Machine Learning Engineer and Data Analyst with a knack for building stron
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MeetPatel03&show_icons=true&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NencyPatel1412&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NencyPatel1412&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=MeetPatel03&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPatel03&layout=compact&theme=dark)
