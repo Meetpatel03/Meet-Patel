@@ -2,7 +2,7 @@
 I'm a Machine Learning Engineer and Data Analyst with a knack for building strong, reliable systems that power websites and apps.
 
 # :dizzy: About Me:
-:rocket: I'm interested in collaborating on exciting projects related to machine learning, data analysis, natural language processing, and computer vision.<br>
+:rocket: I'm eager to collaborate on innovative projects in machine learning, data analysis, natural language processing and computer vision.<br>
 :pushpin: I'm currently seeking job opportunities in Machine Learning Engineering, Data Analysis, or as a Data Scientist.<br>
 :globe_with_meridians: I'm currently expanding my proficiency in different technologies like AWS, GCP, Tableau, and Power BI.<br>
 :thought_balloon: I'm here to ensure that your online projects work successfully. Let's share knowledge and bring your ideas to reality!<br>
