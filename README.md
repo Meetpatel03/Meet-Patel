@@ -20,3 +20,5 @@ I'm a Machine Learning Engineer and Data Analyst with a knack for building stron
 ![](https://github-readme-stats.vercel.app/api?username=MeetPatel03&show_icons=true&theme=dark)<br/>
 ![](https://streak-stats.demolab.com/?user=MeetPatel03&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetPatel03&layout=compact&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=Meetpatel03&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
