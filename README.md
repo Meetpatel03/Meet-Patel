@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer and Data Analyst with a knack for building stron
 :pushpin: I'm currently seeking job opportunities in Machine Learning Engineering, Data Analysis, or as a Data Scientist.<br>
 :globe_with_meridians: I'm currently expanding my proficiency in different technologies like AWS, GCP, Tableau, and Power BI.<br>
 :thought_balloon: I'm here to ensure that your online projects work successfully. Let's share knowledge and bring your ideas to reality!<br>
-:art: Fun Fact: I love exploring knowledge, engaging in diverse topics, and enjoy playing cricket in my free time.<br>
+:cricket_game: Fun Fact: I love exploring knowledge, engaging in diverse topics, and enjoy playing cricket in my free time.<br>
 :inbox_tray: Reach out to me at meetp2286@gmail.com <br>
 
 ## :globe_with_meridians: Socials:
